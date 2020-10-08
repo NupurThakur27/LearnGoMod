@@ -4,5 +4,5 @@ import (
     "rsc.io/quote"
 )
 func main() {
-    color.Cyan(quote.Hello())
+    color.Red(quote.Hello())
 }
